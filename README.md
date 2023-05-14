@@ -1,5 +1,15 @@
 # 💫 About Me:
 Hi, my name is Erick, I'm a IT student that loves coding.👨‍💻
+=============================================================================================================================
+
+Software Developer
+------------------
+
+* 🇲🇽 I'm based in México
+* 🖥️  See my portfolio at [https://capitanachi-portfolio.netlify.app/](http://https://capitanachi-portfolio.netlify.app/)
+* ✉️  You can contact me at [alejandro.capitanachi.glz@outlook.com](mailto:alejandro.capitanachi.glz@outlook.com)
+* 🧠  I'm learning Node js and MongoDB
+* 
 
 
 ## 🌐 Socials:
